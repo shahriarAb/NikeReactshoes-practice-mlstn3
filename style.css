@@ -1,0 +1,36 @@
+.special-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.bg-color{
+    background-color: #fff9f4;
+}
+.title-color{
+    color: #FA804C;
+}
+.title-color2{
+    color: rgb(3, 3, 59);
+}
+.font-size{
+    font-size: 80px;
+}
+.btn-style{
+    background-image: linear-gradient(to right, #3D4FF3, #424fc4 );
+}
+.t-style{
+    font-size: 48px;
+    font-weight: 500;
+    color: #363958;
+}
+.border-style{
+    border-radius: 20px;
+    width: 370px;
+    height: 550px;
+}
+.border-style2{
+    border-radius: 20px;
+    width: 334px;
+    height: 327px;
+}
+.border-style3{
+    border-radius: 20px;
+}
